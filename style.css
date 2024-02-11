@@ -663,6 +663,7 @@ p {
 		object-fit: contain;
 	}
 	#contact .contact-item .contact-info {
+		text-color: black;
 		width: 100%;
 		text-align: left;
 		padding-left: 20px;
